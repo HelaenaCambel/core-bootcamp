@@ -1,12 +1,12 @@
 {
-    "name": "SELYO PX01",
-    "description": "SELYO EXCLUSIVE BADGE",
-    "symbol": "SE",
+    "name": "TOKENaki",
+    "description": "TAKO Badge",
+    "symbol": "TAKO",
     "image": "https://i.imgur.com/68x0OdZ.png",
     "attributes": [
         {
             "trait_type": "event",
-            "value": "SELYO EXCLUSIVE BADGE"
+            "value": "TAKO Badge"
         },
         {
             "trait_type": "year",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "website",
-            "value": "selyo.quest"
+            "value": "tako.treasure"
         }
     ]
 }
