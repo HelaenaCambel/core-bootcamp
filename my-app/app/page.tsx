@@ -12,7 +12,6 @@ declare global {
 }
 export default function Home() {
   const [account, setAccount] = useState<string | null>(null);
-
   const [contract, setContract] = useState<ethers.Contract | null>(null);
 
   const connectWallet = async () => {
